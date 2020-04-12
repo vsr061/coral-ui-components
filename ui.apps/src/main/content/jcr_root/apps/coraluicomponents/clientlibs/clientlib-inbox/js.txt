@@ -1,0 +1,7 @@
+#base=js
+buttons/view-asset-properties.js
+buttons/download.js
+actions/inbox.item.actions.viewprops.js
+actions/inbox.item.actions.download.js
+init.js
+show-hide.js
