@@ -1,5 +1,5 @@
 
-# Coral UI Components for AEM Inbox
+# Coral UI Components for AEM Inbox [![Build Status](https://travis-ci.com/vsr061/coral-ui-components.svg?branch=master)](https://travis-ci.com/github/vsr061/coral-ui-components)
 
 This project is developed to show how to add custom front end components where node overlay is not possible. We will develop these components with Coral & Granite client side foundation UIs.
 
