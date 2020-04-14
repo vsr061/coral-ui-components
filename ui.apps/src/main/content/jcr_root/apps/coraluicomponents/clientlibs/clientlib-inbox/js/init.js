@@ -3,7 +3,7 @@ $(document).ready(function () {
     //wait till the actionbar is ready
     Coral.commons.ready(actionBar, function () {
 
-        //Get item list fro left buttons
+        //Get item list for left buttons
         let leftItems = actionBar.primary.items;
 
         //Add custom buttons to the action bar
